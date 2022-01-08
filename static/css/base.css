@@ -69,7 +69,9 @@ a:focus {
 	justify-content: flex-start;
 	align-items: center;
 }
-
+.panel{
+	display: none;
+}
 @media screen and (min-width: 53em) {
 	.frame {
 		position: fixed;

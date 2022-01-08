@@ -4,3 +4,7 @@ body {
 	overflow: hidden;
 	cursor: pointer;
 }
+canvas{
+	width: 100%;
+	height: auto;
+}
